@@ -1,0 +1,259 @@
+.fig{
+    display:flex;
+    justify-content: space-between;
+
+}
+ul{
+    display: flex;
+   justify-content: space-evenly;
+   align-items: center;
+   gap: 40px;
+   margin-right: 100px;
+   text-decoration: none;
+}
+.Img{
+    padding: 30px;
+
+}
+button{
+    padding: 20px;
+    height: 2px;
+    display: flex;
+    align-items: center;
+    margin-right: 20px;
+    background: #75BF7A;
+    border:none;
+    border-radius: 5.95px;
+    color: white;
+}
+h1{
+    font-size: 40px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 30px;
+}
+.Sec{
+    display: flex;
+    height: 400px;
+    
+}
+.My{
+    margin-right: 260px;
+    
+}
+
+.para{
+    position: relative;
+    right: 443px;
+    padding-top: 238px;
+}
+.bt{
+    display: flex;
+    padding-left: 30px;
+    margin-bottom: 30;
+   position: relative;
+   bottom: 30px;
+   right: px; 
+}
+.bt1{
+    
+    background: #000;
+    color: white;
+    border-radius: 0.5px;
+    padding: 20px;
+    gap: 0.5px;
+    width: 150px;
+    display: flex;
+    justify-content: center;
+}
+.bt2{
+    background: #000;
+    color: white;
+    border-radius: 0.5px;
+     padding: 20px;
+    width: 150px;
+     display: flex;
+    justify-content: center;
+}
+.pl1{
+    padding-right: 7px;
+}
+.pl2{
+    padding-right: 7px;
+}
+.Green{
+    display: flex;
+    justify-content: space-between;
+    background: #75B57A;
+   height: 100px;
+   display: flex;
+   align-items: center;
+   width: 1000px;
+   margin-left: 30px;
+}
+.cl{
+    padding-left: 30px;
+    color: white;
+    display: flex;
+    align-items: center;
+}
+.another{
+    background: #000;
+    color: white;
+     border-radius: 0.5px;
+     padding: 20px;
+    width: 150px;
+    display: flex;
+    justify-content: center;
+    margin-right: 50px;
+    margin-top: 11.5px;
+    position: relative;
+    right: 120px;
+    border-radius: 4.39px;
+}
+.Inp{
+    height: 40px;
+    width: 330px;
+    border: none;
+    margin-top: 11.5px;
+    border-radius: 4.39px;
+    padding-left: 40px;
+}
+.hed{
+    font-size: 25px;
+}
+.fine{
+    display: flex;
+    justify-content: center;
+    position: relative;
+    left: 150px;
+}
+.fines{
+    position: relative;
+    top: 60px;
+    right: 300px;
+}
+.mobile{
+position: relative;
+top: 60px;
+}
+.for{
+    display: flex;
+justify-content: center;
+}
+.content1{
+    position: relative;
+    bottom: 470px;
+    left: 250px;
+}
+.content2{
+    position: relative;
+    bottom: 430px;
+    left: 250px;
+}
+.content3{
+    position: relative;
+    bottom: 900px;
+    left: 870px;
+}
+.content4{
+    position: relative;
+    bottom: 865px;
+    left: 870px;
+
+}
+.Mouse{
+    display: flex;
+    justify-content: center;
+    position: relative;
+    bottom: 770px;
+}
+.head{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    display: flex;
+    justify-content: center;
+    font-size: 20px;
+    position: relative;
+    bottom: 700px;
+}
+.font{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.main{
+    position: relative;
+    bottom: 650px;
+    left: 300px;
+}
+.seco{
+    height: 170px;
+}
+.flex{
+        position: relative;
+    bottom: 790px;
+    left: 900px;
+
+}
+.seco1{
+    height: 170px;
+}
+.flex1{
+    position: relative;
+    bottom: 650px;
+    left: 300px;
+}
+
+.mine{
+    position: relative;
+    bottom: 800px;
+    left: 900px;
+}
+.sep{
+      font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.same{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.mine2{
+    position: relative;
+    bottom: 600px;
+    left: 300px;
+}
+.alot{
+    position: relative;
+    bottom: 835px;
+    left: 900px;
+}
+
+.ahh{
+    position: relative;
+    bottom: 690px;
+    padding-left: 30px;
+}
+.before{
+    position: relative;
+    bottom:770px;
+    left: 400px;
+}
+.after{
+    position: relative;
+    bottom:888px;
+    left: 800px;
+}
+.line{
+    background: #000;
+    color: white;
+    padding-right: 20px;
+    gap: 5px;
+}
+.done{
+    position: relative;
+    bottom: 980px;
+    left: 1100px;
+}
+.finish{
+    display: flex;
+    justify-content: center;
+    color: #75B57A  ;
+    position: relative;
+    bottom: 900px;
+}
